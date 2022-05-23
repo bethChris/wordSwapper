@@ -101,7 +101,16 @@ class Menu():
 
 ```python
 
+def replace(file, oldWord, newWord):
+	for each line in file
+		save line as a string
+		if oldword in line (As string)
+			replace the old word with the new word 
 
+		either way, writeline to file, overridding the old line
+			
+				
+			
 
 
 ```
